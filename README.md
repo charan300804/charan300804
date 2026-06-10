@@ -17,7 +17,12 @@
 
 ---
 
-## ⚡ Git Activity & Streaks
+## ⚡ Live Git Activity & Coding Streaks
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan300804&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan300804&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
