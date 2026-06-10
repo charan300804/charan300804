@@ -1,4 +1,10 @@
-# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Charan!+👋;AI+%2F+ML+Engineer;Full-Stack+Developer;Vibe+Coder" alt="Typing SVG" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+there+I'm+Charan!;AI+and+ML+Engineer;Full--Stack+Developer;Vibe+Coder" alt="Typing Title" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&duration=3500&pause=1000&color=F43F5E&center=true&vCenter=true&width=650&lines=I+love+exploring+new+AI+models+🧠;I+love+building+intelligent+apps+🚀;I'm+a+passionate+Vibe+Coder+💻;I+build+full--stack+web+applications+🌐;I+write+clean+Python+code+🐍" alt="Typing Interests" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vibe_Coder-Premium-rose?style=for-the-badge&logo=rocket&logoColor=white" />
@@ -11,9 +17,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ Git Activity & Streaks
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan300804&theme=tokyonight&no-bg=true&margin-w=15" alt="github-profile-trophy" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan300804&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -77,7 +85,7 @@
 ## 📊 Performance & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan300804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Charan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charan300804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Metrics" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan300804&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
