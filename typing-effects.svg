@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 60" width="100%" height="60">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 60" width="100%" height="60">
   <defs>
     <!-- Role Gradient: Vibrant Purple-Indigo-Pink -->
     <linearGradient id="role-grad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -14,30 +14,30 @@
       <stop offset="100%" stop-color="#34D399" />
     </linearGradient>
 
-    <!-- Clip Paths for Typewriter Reveal using SMIL animations -->
+    <!-- Clip Paths for Typewriter Reveal using SMIL animations (Adjusted width to 1000) -->
     <clipPath id="clip1">
       <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;800;800;0;0" keyTimes="0;0.07;0.16;0.19;1" dur="20s" begin="0s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;1000;1000;0;0" keyTimes="0;0.07;0.16;0.19;1" dur="20s" begin="0s" repeatCount="indefinite" />
       </rect>
     </clipPath>
     <clipPath id="clip2">
       <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;800;800;0;0" keyTimes="0;0.07;0.16;0.19;1" dur="20s" begin="4s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;1000;1000;0;0" keyTimes="0;0.07;0.16;0.19;1" dur="20s" begin="4s" repeatCount="indefinite" />
       </rect>
     </clipPath>
     <clipPath id="clip3">
       <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;800;800;0;0" keyTimes="0;0.07;0.16;0.19;1" dur="20s" begin="8s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;1000;1000;0;0" keyTimes="0;0.07;0.16;0.19;1" dur="20s" begin="8s" repeatCount="indefinite" />
       </rect>
     </clipPath>
     <clipPath id="clip4">
       <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;800;800;0;0" keyTimes="0;0.07;0.16;0.19;1" dur="20s" begin="12s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;1000;1000;0;0" keyTimes="0;0.07;0.16;0.19;1" dur="20s" begin="12s" repeatCount="indefinite" />
       </rect>
     </clipPath>
     <clipPath id="clip5">
       <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;800;800;0;0" keyTimes="0;0.07;0.16;0.19;1" dur="20s" begin="16s" repeatCount="indefinite" />
+        <animate attributeName="width" values="0;1000;1000;0;0" keyTimes="0;0.07;0.16;0.19;1" dur="20s" begin="16s" repeatCount="indefinite" />
       </rect>
     </clipPath>
 
@@ -46,30 +46,31 @@
       
       .text-line {
         font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        font-size: 24px;
         fill: #FFFFFF;
       }
       
       .role-text {
         font-weight: 800;
+        font-size: 22px;
         fill: url(#role-grad);
       }
       
       .bullet {
         fill: #475569;
-        font-size: 22px;
+        font-size: 20px;
       }
       
       .desc-text {
         font-weight: 600;
+        font-size: 20px;
         fill: url(#desc-grad);
       }
     </style>
   </defs>
 
-  <!-- Line 1 -->
+  <!-- Line 1 (Centered at x=500) -->
   <g clip-path="url(#clip1)">
-    <text x="400" y="38" text-anchor="middle" class="text-line" opacity="0">
+    <text x="500" y="38" text-anchor="middle" class="text-line" opacity="0">
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.005;0.195;0.2;1" dur="20s" begin="0s" repeatCount="indefinite" />
       <tspan class="role-text">AI / ML Engineer</tspan>
       <tspan class="bullet"> • </tspan>
@@ -77,9 +78,9 @@
     </text>
   </g>
 
-  <!-- Line 2 -->
+  <!-- Line 2 (Centered at x=500) -->
   <g clip-path="url(#clip2)">
-    <text x="400" y="38" text-anchor="middle" class="text-line" opacity="0">
+    <text x="500" y="38" text-anchor="middle" class="text-line" opacity="0">
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.005;0.195;0.2;1" dur="20s" begin="4s" repeatCount="indefinite" />
       <tspan class="role-text">App Developer</tspan>
       <tspan class="bullet"> • </tspan>
@@ -87,9 +88,9 @@
     </text>
   </g>
 
-  <!-- Line 3 -->
+  <!-- Line 3 (Centered at x=500) -->
   <g clip-path="url(#clip3)">
-    <text x="400" y="38" text-anchor="middle" class="text-line" opacity="0">
+    <text x="500" y="38" text-anchor="middle" class="text-line" opacity="0">
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.005;0.195;0.2;1" dur="20s" begin="8s" repeatCount="indefinite" />
       <tspan class="role-text">Full-Stack Developer</tspan>
       <tspan class="bullet"> • </tspan>
@@ -97,9 +98,9 @@
     </text>
   </g>
 
-  <!-- Line 4 -->
+  <!-- Line 4 (Centered at x=500) -->
   <g clip-path="url(#clip4)">
-    <text x="400" y="38" text-anchor="middle" class="text-line" opacity="0">
+    <text x="500" y="38" text-anchor="middle" class="text-line" opacity="0">
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.005;0.195;0.2;1" dur="20s" begin="12s" repeatCount="indefinite" />
       <tspan class="role-text">Python Developer</tspan>
       <tspan class="bullet"> • </tspan>
@@ -107,9 +108,9 @@
     </text>
   </g>
 
-  <!-- Line 5 -->
+  <!-- Line 5 (Centered at x=500) -->
   <g clip-path="url(#clip5)">
-    <text x="400" y="38" text-anchor="middle" class="text-line" opacity="0">
+    <text x="500" y="38" text-anchor="middle" class="text-line" opacity="0">
       <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.005;0.195;0.2;1" dur="20s" begin="16s" repeatCount="indefinite" />
       <tspan class="role-text">Vibe Coder</tspan>
       <tspan class="bullet"> • </tspan>
