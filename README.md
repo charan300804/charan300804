@@ -17,19 +17,6 @@
 
 ---
 
-## ⚡ Live Git Activity & Coding Streaks
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan300804&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=charan300804&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
----
 
 ## 🧠 Technologies & Tools
 
@@ -92,8 +79,7 @@
 ## 📊 Performance & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charan300804&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&custom_title=GitHub%20Metrics" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan300804&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan300804&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
