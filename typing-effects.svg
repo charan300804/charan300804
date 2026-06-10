@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 60" width="100%" height="60">
+  <defs>
+    <!-- Role Gradient: Vibrant Purple-Indigo-Pink -->
+    <linearGradient id="role-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818CF8" />
+      <stop offset="50%" stop-color="#C084FC" />
+      <stop offset="100%" stop-color="#F472B6" />
+    </linearGradient>
+    
+    <!-- Description Gradient: Cyber Cyan-Blue-Emerald -->
+    <linearGradient id="desc-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#60A5FA" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+
+    <!-- Clip Paths for Typewriter Reveal -->
+    <!-- Width starts at 0, goes to 800 (complete reveal) -->
+    <clipPath id="clip1"><rect class="clip-rect rect-1" x="0" y="0" width="0" height="60" /></clipPath>
+    <clipPath id="clip2"><rect class="clip-rect rect-2" x="0" y="0" width="0" height="60" /></clipPath>
+    <clipPath id="clip3"><rect class="clip-rect rect-3" x="0" y="0" width="0" height="60" /></clipPath>
+    <clipPath id="clip4"><rect class="clip-rect rect-4" x="0" y="0" width="0" height="60" /></clipPath>
+    <clipPath id="clip5"><rect class="clip-rect rect-5" x="0" y="0" width="0" height="60" /></clipPath>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&amp;display=swap');
+      
+      .text-line {
+        font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        font-size: 24px;
+        fill: #FFFFFF;
+        opacity: 0;
+        animation: fade-text 20s infinite;
+      }
+      
+      .role-text {
+        font-weight: 800;
+        fill: url(#role-grad);
+      }
+      
+      .bullet {
+        fill: #475569;
+        font-size: 22px;
+      }
+      
+      .desc-text {
+        font-weight: 600;
+        fill: url(#desc-grad);
+      }
+
+      .clip-rect {
+        animation: type-wipe 20s infinite ease-in-out;
+      }
+
+      /* Delays for each line (total 20s cycle, 4s per line) */
+      .rect-1, .line-1 { animation-delay: 0s; }
+      .rect-2, .line-2 { animation-delay: 4s; }
+      .rect-3, .line-3 { animation-delay: 8s; }
+      .rect-4, .line-4 { animation-delay: 12s; }
+      .rect-5, .line-5 { animation-delay: 16s; }
+
+      /* Animation for the clipping width (typewriter wipe) */
+      @keyframes type-wipe {
+        0% { width: 0; }
+        /* Type-in phase (0s to 1.4s -> 0% to 7%) */
+        7% { width: 800px; }
+        /* Reading phase (1.4s to 3.2s -> 7% to 16%) */
+        16% { width: 800px; }
+        /* Erase phase (3.2s to 3.8s -> 16% to 19%) */
+        19% { width: 0; }
+        /* Hidden phase (3.8s to 4.0s -> 19% to 20%, and rest of loop) */
+        20%, 100% { width: 0; }
+      }
+
+      /* Animation for the text opacity */
+      @keyframes fade-text {
+        0% { opacity: 0; }
+        0.5% { opacity: 1; }
+        19.5% { opacity: 1; }
+        20%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Line 1 -->
+  <g clip-path="url(#clip1)">
+    <text x="400" y="38" text-anchor="middle" class="text-line line-1">
+      <tspan class="role-text">AI / ML Engineer</tspan>
+      <tspan class="bullet"> • </tspan>
+      <tspan class="desc-text">Exploring cutting-edge GenAI models 🧠</tspan>
+    </text>
+  </g>
+
+  <!-- Line 2 -->
+  <g clip-path="url(#clip2)">
+    <text x="400" y="38" text-anchor="middle" class="text-line line-2">
+      <tspan class="role-text">App Developer</tspan>
+      <tspan class="bullet"> • </tspan>
+      <tspan class="desc-text">Building intelligent &amp; high-performance apps 📱</tspan>
+    </text>
+  </g>
+
+  <!-- Line 3 -->
+  <g clip-path="url(#clip3)">
+    <text x="400" y="38" text-anchor="middle" class="text-line line-3">
+      <tspan class="role-text">Full-Stack Developer</tspan>
+      <tspan class="bullet"> • </tspan>
+      <tspan class="desc-text">Crafting premium, responsive web experiences 🌐</tspan>
+    </text>
+  </g>
+
+  <!-- Line 4 -->
+  <g clip-path="url(#clip4)">
+    <text x="400" y="38" text-anchor="middle" class="text-line line-4">
+      <tspan class="role-text">Python Developer</tspan>
+      <tspan class="bullet"> • </tspan>
+      <tspan class="desc-text">Writing clean, optimized, &amp; robust code 🐍</tspan>
+    </text>
+  </g>
+
+  <!-- Line 5 -->
+  <g clip-path="url(#clip5)">
+    <text x="400" y="38" text-anchor="middle" class="text-line line-5">
+      <tspan class="role-text">Vibe Coder</tspan>
+      <tspan class="bullet"> • </tspan>
+      <tspan class="desc-text">Translating inspiration &amp; flow into digital art 💻</tspan>
+    </text>
+  </g>
+</svg>

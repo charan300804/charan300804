@@ -3,15 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=30&duration=2500&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;App+Developer;Full-Stack+Developer;Python+Developer;Vibe+Coder;Generative+AI+Specialist" alt="Typing Roles" />
+  <img src="https://raw.githubusercontent.com/charan300804/charan300804/main/typing-effects.svg" alt="Dynamic Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=20&duration=3000&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=Exploring+new+AI+models;Building+intelligent+apps;Coding+by+inspiration+and+vibes;Full-stack+web+development;Writing+clean+Python+code" alt="Typing Interests" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/normal-badge.png?id=charan300804&color=6366f1" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=charan300804&color=6366f1&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
