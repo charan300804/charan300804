@@ -39,10 +39,14 @@
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Analytics & Coding Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan300804&layout=compact&theme=tokyonight&hide_border=true&card_width=490" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=charan300804&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan300804&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Donut Chart" width="450" />
 </p>
 
 ---
