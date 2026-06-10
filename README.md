@@ -79,6 +79,8 @@
 | **🔍 [HGT Fake Review Detector](https://github.com/charan300804/hgt-fake-review-detection)** | AI Fraud classifier using Heterogeneous Graph Transformers. | `PyTorch Geometric`, `TypeScript`, `Next.js` |
 | **🏭 [ComminuTech AI (SIH2)](https://github.com/charan300804/SIH2)** | Advanced Next.js platform optimizing mining energy & predicting faults. | `Next.js`, `Firebase`, `Genkit AI`, `Gemini` |
 | **🚀 [GigFlow Marketplace](https://github.com/charan300804/GigFlow)** | Premium freelance marketplace featuring real-time socket communication. | `React`, `Node.js`, `Socket.io`, `Redux` |
+| **🧠 [PsyConnect](https://github.com/charan300804/PsyConnect)** | Psychological first-aid and mental health platform with PHQ-9/GAD-7 assessments. | `Next.js`, `Firebase`, `Genkit AI`, `Tailwind` |
+| **📚 [Gyan Setu](https://github.com/charan300804/GyanSetu)** | Digital learning platform bridging educational gaps in rural schools. | `Next.js`, `Firebase`, `Genkit AI`, `TypeScript` |
 
 ---
 
