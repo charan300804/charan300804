@@ -43,7 +43,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan300804&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages Donut Chart" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charan300804&layout=donut&bg_color=35,0f172a,1e1b4b,0f172a&title_color=f43f5e&text_color=e2e8f0&icon_color=6366f1&hide_border=true&hide=html,css&langs_count=6" alt="Top Languages Donut Chart" width="450" />
 </p>
 
 ---
